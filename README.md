@@ -1,2 +1,3 @@
 # algoritmos-de-ordenamiento
-Se programas y analizan los principales algoritmos de ordenaiento.
+Se programan y analizan los principales algoritmos de ordenaiento.
+En cada capeta viene un pdf con la explicación del análisis algorítmico.
